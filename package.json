@@ -1,11 +1,11 @@
 {
-  "name": "passbook",
-  "description": "iOS Passbook for the Node hacker",
-  "homepage": "https://github.com/assaf/node-passbook",
-  "version": "2.2.0",
+  "name": "newbalance-passbook",
+  "description": "Fork of node-passbook with fix for signing manifest",
+  "homepage": "https://github.com/rahul-mohan/node-passbook",
+  "version": "2.2.2",
   "author": {
-    "name": "Assaf Arkin",
-    "email": "assaf@labnotes.org"
+    "name": "Rahul Mohan",
+    "email": "mail.rahulmohan@gmail.com"
   },
   "main": "./lib/index.js",
   "bin": {
